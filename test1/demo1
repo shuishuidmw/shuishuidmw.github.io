@@ -1,9 +1,19 @@
-<table border="1" bgcolor="#55ff7f">
-		        <tr>
-		            <td><a href="./demo1-1/1-1.html">demo1-1</a></td>
-		            <td><a href="./demo1-2/1-2.html">demo1-2</a></td>
-                <td><a href="./demo1-3/1-3.html">demo1-3</a></td>
-                <td><a href="./demo1-4/1-4.html">demo1-4</a></td>
-                <td><a href="./demo1-5/1-5.html">demo1-5</a></td>
-		        </tr>
-		    </table>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<table border="1" bgcolor="#39ffb3">
+			<tr>
+				<td><a href="./demo1-1/1-1.html">demo1-1</a></td>
+				<td><a href="./demo1-2/1-2.html">demo1-2</a></td>
+		        	<td><a href="./demo1-3/1-3.html">demo1-3</a></td>
+		        	<td><a href="./demo1-4/1-4.html">demo1-4</a></td>
+		        	<td><a href="./demo1-5/1-5.html">demo1-5</a></td>
+			</tr>
+		</table>
+		
+	</body>
+</html>
